@@ -1,0 +1,4 @@
+Agenda 
+1. Git and github repositry setup
+2. Project setup
+3. requirements.txt
