@@ -4,3 +4,5 @@ Important commands
 2. pip install -r requirements.txt
 git add .
 git commit -m ""
+git push origin main
+python app.py
